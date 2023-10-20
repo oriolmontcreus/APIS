@@ -11,7 +11,7 @@ from params import atlas_connection_link, api_key, menu_options, menu_options_ye
 from terminology import in_red, in_yellow, in_blue
 #Aquesta vegada utilitzaré "terminology" en comptes de colorama. Docs: https://github.com/juanrgon/terminology
 
-#N = (D+A+M) mod 3 --> (07+04+06) mod 3 = 2 --> B) LA LIGA DE FUTBOL
+#LA LIGA DE FUTBOL
 #Projecte fet TOT en anglès!--------------------------------------------
 
 #The Google Python Style Guide has the following convention:
